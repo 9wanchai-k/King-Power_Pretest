@@ -18,12 +18,5 @@ pip install -r requirements.txt
 ####  [Command Line to run testcases]
 **Example for WEB**
 ```sh
-robot web.robot
- ```
-
-## 4. Create automation script by using RobotFramework for test Rest API Get request.
-####  [Command Line to run testcases]
-**Example for API**
-```sh
-robot api.robot
+robot /*web.robot
  ```
