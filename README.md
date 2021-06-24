@@ -2,7 +2,7 @@
 ## [KING-POWER Pre-Test]
 ## 1. MANUAL
 ```sh
-https://docs.google.com/document/d/1j3AkulJ9_2S8Jhb2CYDmQn_y66a-lflAXTjYOtZ79tg/edit
+https://docs.google.com/document/d/1j3AkulJ9_2S8Jhb2CYDmQn_y66a-lflAXTjYOtZ79tg/edit?usp=sharing
  ```
 ## 2. Create automation script by using RobotFramework following test cases in table below. That will test this web site ‘http://the-internet.herokuapp.com/login’. 
 ### [Configuration Overview]
